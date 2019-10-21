@@ -1,0 +1,123 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.3.8
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 4000M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 4 GB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 09:56:02 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"2.0.0","theme-auto-version":"2.0.1","site-content-layout":"boxed-container","different-retina-logo":true,"ast-header-retina-logo":"https:\/\/websitedemos.net\/yoga-center-02\/wp-content\/uploads\/sites\/286\/2018\/10\/logo@2x-free-img.png","display-site-title":false,"single-page-sidebar-layout":"default","footer-sml-layout":"footer-sml-layout-2","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | <a href=\"#\">Credits<\/a>","footer-sml-section-2":"custom","footer-sml-section-2-credit":"Powered by <a href=\"#\">[site_title]<\/a>","footer-sml-divider":0,"theme-color":"#ff3a6f","link-color":"#ff3a6f","link-h-color":"#ff3a6f","text-color":"#1d1d23","body-font-family":"'Roboto', sans-serif","body-font-weight":"400","headings-font-family":"'Noto Serif JP', sans-serif","headings-font-weight":"900","font-size-h1":{"desktop":"60","tablet":"40","mobile":"34","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"header-main-sep":0,"footer-bg-obj":{"background-color":"rgba(0,0,0,0)","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"button-bg-h-color":"#ce297e","button-radius":50,"above-header-submenu-item-border":1,"below-header-submenu-item-border":1,"mobile-header-toggle-btn-style":"outline","mobile-header-toggle-btn-border-radius":5,"ast-header-responsive-logo-width":{"desktop":"","tablet":"","mobile":"140"},"site-sidebar-layout":"no-sidebar","body-font-variant":"400","headings-font-variant":"900","transparent-header-enable":0,"footer-color":"#476d80","footer-link-color":"#476d80","footer-link-h-color":"#ff3a6f","font-size-h2":{"desktop":"42","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"logo-title-inline":0,"wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"_astra_pb_compatibility_completed":true},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/286/wxr.xml
+Inserted - Term 7 - {"term_id":7,"name":"Yoga","slug":"yoga","term_group":0,"term_taxonomy_id":7,"taxonomy":"category","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 8 - {"term_id":8,"name":"Main Menu","slug":"main-menu","term_group":0,"term_taxonomy_id":8,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 945 - attachment - favicon-free-img
+Inserted - Post 946 - attachment - logo@2x-free-img
+Inserted - Post 947 - attachment - logo-free-img
+Inserted - Post 40 - attachment - divider-free-img.png
+Inserted - Post 948 - attachment - yoga1-free-img.png
+Inserted - Post 42 - attachment - yoga6-free-img.png
+Inserted - Post 949 - attachment - yoga3-free-img.png
+Inserted - Post 44 - attachment - yoga5-free-img.png
+Inserted - Post 45 - attachment - yoga4-free-img.png
+Inserted - Post 46 - attachment - yoga2-free-img.png
+Inserted - Post 47 - attachment - bg-logo-free-img.png
+Inserted - Post 48 - attachment - awa1-free-img.png
+Inserted - Post 950 - attachment - awa4-free-img.png
+Inserted - Post 50 - attachment - awa2-free-img-1.png
+Inserted - Post 51 - attachment - awa3-free-img.png
+Inserted - Post 951 - attachment - awa5-free-img.png
+Inserted - Post 952 - attachment - count-bg-free-img.jpg
+Inserted - Post 953 - attachment - yoga-benefits-free-img.jpg
+Inserted - Post 954 - attachment - about-bg-free-img-4.jpg
+Inserted - Post 56 - attachment - slide4-free-img.jpg
+Inserted - Post 58 - attachment - quote-free-img.png
+Inserted - Post 955 - attachment - client1-free-img-4.png
+Inserted - Post 956 - attachment - client4-free-img-4.png
+Inserted - Post 957 - attachment - client3-free-img-4.png
+Inserted - Post 64 - attachment - yoga-instructor-free-img.jpg
+Inserted - Post 65 - attachment - author-free-img-1.jpg
+Inserted - Post 66 - attachment - nutritionist-free-img.jpg
+Inserted - Post 68 - attachment - slide1-free-img.jpg
+Inserted - Post 69 - attachment - slide3-free-img.jpg
+Inserted - Post 958 - attachment - slide2-free-img.jpg
+Inserted - Post 959 - attachment - slide5-free-img.jpg
+Inserted - Post 72 - attachment - slide6-free-img.jpg
+Inserted - Post 960 - attachment - discount-free-img.png
+Inserted - Post 76 - attachment - courses-bg-free-img-1
+Inserted - Post 83 - attachment - book1-free-img
+Inserted - Post 89 - attachment - book3-free-img
+Inserted - Post 90 - attachment - book2-free-img
+Inserted - Post 961 - attachment - home-bg-free-img
+Inserted - Post 962 - attachment - demo-screenshot-free-img
+Inserted - Post 963 - page - Home
+Inserted - Post 964 - page - About Me
+Inserted - Post 965 - page - Classes
+Inserted - Post 36 - nav_menu_item - HOME
+Inserted - Post 966 - nav_menu_item - ABOUT ME
+Inserted - Post 38 - nav_menu_item - CLASSES
+Inserted - Post 81 - page - Publications
+Inserted - Post 93 - nav_menu_item - PUBLICATIONS
+Inserted - Post 94 - page - Get Fit
+Inserted - Post 97 - nav_menu_item - GET FIT
+Inserted - Post 152 - page - Blog
+Inserted - Post 185 - attachment - weights-free-img
+Inserted - Post 205 - attachment - blog-1
+Inserted - Post 295 - attachment - gymnastics-free-img
+Inserted - Post 967 - attachment - blog-2
+Inserted - Post 968 - attachment - blog-3
+Inserted - Post 341 - attachment - blog-4
+Inserted - Post 411 - attachment - blog-5
+Inserted - Post 414 - attachment - blog-6
+Inserted - Post 969 - nav_menu_item - BLOG
+Inserted - Post 970 - post - Live a Disciplined Life
+Inserted - Post 309 - post - Top 5 Rules of Yoga
+Inserted - Post 312 - post - Basic Yoga Techniques for Beginners
+Inserted - Post 314 - post - Perfect Nutrition for Healthy Life
+Inserted - Post 316 - post - What I Learned from Yoga
+Inserted - Post 319 - post - My Yoga Journey
+Inserted - Post 346 - wp_block - Blog-hero-sec
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name '' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 423
+Post ID: 30
+Post ID: 29
+Post ID: 27
+Post ID: 26
+Post ID: 24
+Post ID: 23
+Post ID: 969
+Post ID: 340
+Post ID: 343
+Batch Process Complete!

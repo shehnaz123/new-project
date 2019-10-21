@@ -1,0 +1,113 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.3.8
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 4000M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 4 GB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 21:15:04 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Inserted WP Form 71
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"1.8.7","theme-auto-version":"1.8.7","transparent-header-enable":0,"site-content-width":1170,"display-site-tagline":false,"header-main-rt-section":"button","header-main-rt-section-html":"<button>TAKE ACTION<\/button>","header-main-sep":0,"header-main-sep-color":"","header-main-layout-width":"full","mobile-header-toggle-btn-style":"outline","mobile-header-toggle-btn-style-color":"#ffffff","mobile-header-toggle-btn-border-radius":0,"header-main-menu-align":"inline","footer-adv":"disabled","footer-sml-layout":"footer-sml-layout-2","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title]","footer-sml-section-2":"custom","footer-sml-section-2-credit":"Powered by [site_title]","footer-sml-divider":0,"footer-layout-width":"content","theme-color":"#d94948","link-color":"","text-color":"rgba(1,22,39,0.75)","link-h-color":"#ffffff","site-layout-outside-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"body-font-family":"'Montserrat', sans-serif","body-font-variant":"","body-font-weight":"400","body-text-transform":"none","headings-font-family":"'Montserrat', sans-serif","headings-font-weight":"700","font-size-h1":{"desktop":"70","tablet":"70","mobile":"33","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-color":"#ffffff","button-h-color":"#ffffff","button-bg-color":"#d94948","button-bg-h-color":"rgba(217,73,72,0.85)","button-radius":100,"button-v-padding":6,"button-h-padding":20,"transparent-header-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-site-title-responsive":{"desktop":"#ffffff","tablet":"#ffffff","mobile":""},"font-size-site-title":{"desktop":"28","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"34","tablet":"40","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"23","tablet":"23","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":"16","tablet":"18","mobile":"14","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":"14","tablet":"16","mobile":"13","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"12","tablet":"14","mobile":"12","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"footer-color":"rgba(255,255,255,0.5)","footer-link-color":"#ffffff","footer-link-h-color":"#dd3333","footer-bg-obj":{"background-color":"#011627","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"font-size-site-tagline":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"transparent-header-color-h-site-title-responsive":{"desktop":"","tablet":"rgba(255,255,255,0.75)","mobile":""},"transparent-menu-bg-color-responsive":{"desktop":"rgba(255,255,255,0)","tablet":"#f9f8f8","mobile":""},"transparent-menu-color-responsive":{"desktop":"rgba(255,255,255,0.75)","tablet":"rgba(1,22,39,0.75)","mobile":""},"transparent-menu-h-color-responsive":{"desktop":"#ffffff","tablet":"#011627","mobile":""},"transparent-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"header-main-rt-section-button-text":"TAKE ACTION","header-main-rt-section-button-link":"#","site-sidebar-layout":"no-sidebar","site-content-layout":"boxed-container","display-site-title":false,"ast-header-responsive-logo-width":{"desktop":"84","tablet":"","mobile":"74"},"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"logo-title-inline":0,"wc-header-cart-header-colors":false,"different-transparent-logo":true,"transparent-header-logo":"https:\/\/websitedemos.net\/sierra-industry-02\/wp-content\/uploads\/sites\/340\/2018\/12\/sierra_business.svg","shop-quick-view-stick-cart":true},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/340/wxr.xml
+Inserted - Term 3 - {"term_id":3,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":3,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 4 - {"term_id":4,"name":"section","slug":"section","term_group":0,"term_taxonomy_id":4,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 5 - {"term_id":5,"name":"Menu","slug":"menu","term_group":0,"term_taxonomy_id":5,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 119 - attachment - bg-02-free-img
+Inserted - Post 120 - attachment - bg-03-free-img
+Inserted - Post 121 - attachment - bg-04-free-img
+Inserted - Post 122 - attachment - bg-05-free-img
+Inserted - Post 123 - attachment - bg-06-free-img
+Inserted - Post 124 - attachment - bg-07-free-img
+Inserted - Post 125 - attachment - bg-08-free-img
+Inserted - Post 126 - attachment - bg-09-free-img
+Inserted - Post 127 - attachment - bg-10-free-img
+Inserted - Post 133 - attachment - img-06-free-img
+Inserted - Post 134 - attachment - img-07-free-img
+Inserted - Post 135 - attachment - img-08-free-img
+Inserted - Post 136 - attachment - img-09-free-img
+Inserted - Post 141 - attachment - bg-10-free-img.jpg
+Inserted - Post 145 - attachment - hero-section
+Inserted - Post 162 - attachment - working
+Inserted - Post 164 - attachment - factory
+Inserted - Post 169 - attachment - projects
+Inserted - Post 171 - attachment - project-1
+Inserted - Post 172 - attachment - project-2
+Inserted - Post 173 - attachment - project-3
+Inserted - Post 174 - attachment - project-4
+Inserted - Post 177 - attachment - aerospace
+Inserted - Post 179 - attachment - oil
+Inserted - Post 180 - attachment - automotive
+Inserted - Post 182 - attachment - product
+Inserted - Post 184 - attachment - img-05-free-img
+Inserted - Post 189 - attachment - screenshot-business
+Inserted - Post 196 - attachment - logo@2x-free-img
+Inserted - Post 197 - attachment - logo-free-img
+Inserted - Post 199 - attachment - footer-bg-free-img
+Inserted - Post 204 - attachment - sierra_business
+Inserted - Post 231 - attachment - industry-1
+Inserted - Post 246 - attachment - industry-2
+Inserted - Post 249 - attachment - industry-3
+Inserted - Post 253 - attachment - industry-4
+Inserted - Post 256 - attachment - industry-5
+Inserted - Post 259 - attachment - industry-6
+Inserted - Post 298 - attachment - bg-blog-free-img
+Inserted - Post 329 - attachment - sierra_business-black
+Inserted - Post 4 - custom_css - astra
+Inserted - Post 330 - page - HOME
+Inserted - Post 332 - page - ABOUT
+Inserted - Post 334 - page - PRODUCTS
+Inserted - Post 336 - page - PROJECTS
+Inserted - Post 338 - page - CONTACT
+Inserted - Post 340 - nav_menu_item - 
+Inserted - Post 341 - nav_menu_item - 
+Inserted - Post 342 - nav_menu_item - 
+Inserted - Post 343 - nav_menu_item - 
+Inserted - Post 344 - nav_menu_item - 
+Inserted - Post 140 - elementor-hf - Site Footer
+Inserted - Post 194 - elementor_library - Old Footer
+Inserted - Post 230 - post - Neque porro quisquam est
+Inserted - Post 245 - post - Praesent fringilla eleifend dui sit amet
+Inserted - Post 248 - post - Vivamus quis placerat ligula
+Inserted - Post 252 - post - Nullam sed rutrum odio
+Inserted - Post 255 - post - Mauris vitae magna maximus
+Inserted - Post 263 - page - BLOG
+Inserted - Post 320 - nav_menu_item - BLOG
+Inserted - Post 258 - post - Etiam ultrices mollis faucibus
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/sierra-industry-02\/wp-content\/uploads\/sites\/340\/2019\/01\/sierra_business-black.svg","nav_menu_locations":{"primary":"menu"},"show_on_front":"page","page_on_front":"HOME","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":"1170","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"10","elementor_stretched_section_container":"","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'xyz' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 345
+Post ID: 339
+Post ID: 337
+Post ID: 335
+Post ID: 333
+Post ID: 331
+Post ID: 50
+Post ID: 42
+Post ID: 40
+Post ID: 38
+Batch Process Complete!
